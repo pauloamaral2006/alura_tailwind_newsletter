@@ -1,4 +1,4 @@
-# AluraPlay
+# Newsletter
 
 ## ℹ️ Sobre
 
